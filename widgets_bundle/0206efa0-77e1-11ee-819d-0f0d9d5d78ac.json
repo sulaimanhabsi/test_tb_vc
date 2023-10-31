@@ -1,0 +1,20 @@
+{
+  "entityType" : "WIDGETS_BUNDLE",
+  "entity" : {
+    "alias" : "sulaiman_bundle",
+    "description" : null,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "0206efa0-77e1-11ee-819d-0f0d9d5d78ac"
+    },
+    "image" : null,
+    "name" : "Sulaiman Bundle",
+    "title" : "Sulaiman Bundle"
+  },
+  "fqns" : [ "sulaiman_widget" ],
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

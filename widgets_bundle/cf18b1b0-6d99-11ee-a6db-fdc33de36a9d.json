@@ -1,0 +1,23 @@
+{
+  "entityType" : "WIDGETS_BUNDLE",
+  "entity" : {
+    "alias" : "mada_alarms",
+    "description" : null,
+    "externalId" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "cf18b1b0-6d99-11ee-a6db-fdc33de36a9d"
+    },
+    "id" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "cf18b1b0-6d99-11ee-a6db-fdc33de36a9d"
+    },
+    "image" : null,
+    "name" : "MADA Alarms",
+    "title" : "MADA Alarms"
+  },
+  "fqns" : [ "mada_alarms.alarms_table" ],
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

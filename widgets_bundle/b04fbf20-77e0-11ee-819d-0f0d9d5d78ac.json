@@ -1,0 +1,20 @@
+{
+  "entityType" : "WIDGETS_BUNDLE",
+  "entity" : {
+    "alias" : "sulaiman_widgets",
+    "description" : null,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "b04fbf20-77e0-11ee-819d-0f0d9d5d78ac"
+    },
+    "image" : null,
+    "name" : "Sulaiman Widgets",
+    "title" : "Sulaiman Widgets"
+  },
+  "fqns" : [ "mada_bms.ac_control" ],
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "entityType" : "WIDGETS_BUNDLE",
+  "entity" : {
+    "alias" : "mada_basic",
+    "description" : null,
+    "externalId" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "907f74c0-6d99-11ee-a6db-fdc33de36a9d"
+    },
+    "id" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "907f74c0-6d99-11ee-a6db-fdc33de36a9d"
+    },
+    "image" : null,
+    "name" : "MADA Basic",
+    "title" : "MADA Basic"
+  },
+  "fqns" : [ "mada_basic.analog_pins_legacy_", "mada_basic.dry_contact_cards", "mada_basic.main_navigation_bar", "mada_basic.single_value_card", "mada_basic.states_card", "mada_basic.sub_navigation_bar", "mada_basic.vertical_bar" ],
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
